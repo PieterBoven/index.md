@@ -1,4 +1,8 @@
-<h1> index.md </h1>
+<!DOCTYPE html>
+
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
 <h2> Objectifs </h2>
 
 <p> Explorer le language HTML </p>
@@ -10,3 +14,5 @@
 <p> Crée un fichier `index.html` </p>
 <p> Convertis ce markdown en HTML dans le fichier `index.html` </p>
 <p> Publie sur ton dépôt le fichier HTML </p>
+</body>
+</html>
