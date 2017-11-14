@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <style type="text/css">
+  <style text/css>
     
     h1 {
     font-family: Times New Roman;
