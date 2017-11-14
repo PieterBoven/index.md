@@ -1,14 +1,30 @@
 <!DOCTYPE html>
 
 <html>
-<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<head>
+  <style type="text/css">
+    
+    h1 {
+    font-family: Times New Roman;
+    font-size: 20px;
+    color: black;
+    }
+    
+    p {
+    font-family: Arial;
+    font-size: 15px;
+    color: blue;
+    }
+    
+    </style>
+  </head>
 <body>
-<h2> Objectifs </h2>
+<h1> Objectifs </h2>
 
 <p> Explorer le language HTML </p>
 <p> Comprendre le lien entre le markdown et le HTML </p>
 
-<h2> Instructions </h2>
+<h1> Instructions </h2>
 
 <p> Créer toi un projet GitHub `markdown-warmup-html` </p>
 <p> Crée un fichier `index.html` </p>
