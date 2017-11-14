@@ -3,7 +3,7 @@
 <html>
 <head>
   
-    <style>
+    <style type= text/css>
     
     h1 {
     font-family: Times New Roman;
